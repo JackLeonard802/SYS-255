@@ -3,3 +3,11 @@ Lab-01
 In this lab we set up a virtual vSphere network with a PFsense firewall
 I was able to connect to the cyber.local VPN which facilitated a faster connection to the VM
 I followed the steps given in the lab and was able to set up the network and firewall without issue
+
+
+Lab-02
+
+In this lab we configued a DNS and a directory lookup service
+I was able to configure the server with the proper settings without issue
+I was able to add the ADDS role without issue
+
