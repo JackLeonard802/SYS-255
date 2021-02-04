@@ -9,5 +9,6 @@ Lab-02
 
 In this lab we configued a DNS and a directory lookup service
 I was able to configure the server with the proper settings without issue
-I was able to add the ADDS role without issue
-
+I was able to add the ADDS role and promote to domain controller without issue
+I was able to add the two user accounts without issue
+I was able to add wks01-jack to the domain without issue
