@@ -12,3 +12,20 @@ I was able to configure the server with the proper settings without issue
 I was able to add the ADDS role and promote to domain controller without issue
 I was able to add the two user accounts without issue
 I was able to add wks01-jack to the domain without issue
+
+
+Lab-03
+
+In this lab we configured a CentOS Linux system
+I was able to configure the network settings and host name without issue
+I was able to ping google.com, fw01 and ad01 without issue
+I was able to add an A and PTR record in the DNS configuration on ad01 without issue
+I was able to SSH into dhcp01 without issue
+I was able to execute the linux commands, including history, ls -la, and view the bash history without issue
+
+3 New Linux Commands:
+echo: Used to repeat the input or write to files
+firewall-cmd: Used to edit CentOS firewall
+| more: Used on a file to navigate the contents more easily
+
+
