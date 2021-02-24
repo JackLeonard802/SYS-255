@@ -29,3 +29,12 @@ firewall-cmd: Used to edit CentOS firewall
 | more: Used on a file to navigate the contents more easily
 
 
+Lab-05
+
+In this lab we installed and configured DHCP services
+I was able to install DHCP services without issue
+I was able to configure DHCP services without issue
+I was able to start DHCP services without issue
+I was able to enable a service to start at boot without issue
+I was able to allow incoming DHCP requests through the firewall without issue
+I was able to release and renew the DHCP lease without issue
