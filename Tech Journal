@@ -47,3 +47,20 @@ I reviewed each of the prior labs
 I reviewed the homework assignments
 I reviewed the video lectures
 I also reviewed any notes that were posted
+
+
+Linux Domain Join
+
+I was able to install realmd without issue
+I was able to add the linux system to my domain using "realm join" without issue
+I was able to view the system in the active directory on ad02-jack
+
+
+Apache Installation and firewall-cmd configuration
+
+I was able to manually configure the ip address and hostname of web01-jack without issue
+I was able to create a sudo user without issue
+I was able to disable PermitRootLogin without issue
+I was able to install the httpd package without issue
+I was able to create index.html without issue
+I was able to create index.php without issue
